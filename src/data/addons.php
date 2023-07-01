@@ -13,7 +13,7 @@ return [
 	"modstore.pro" => [
 		'Ace',
 		'AdminPanel',
-		'AjaxForm',
+		'FetchIt',
 		'autoRedirector',
 		'pdoTools',
 		'tagElementPlugin',
