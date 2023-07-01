@@ -27,7 +27,7 @@ return [
 	'resource_tree_node_tooltip' => 'alias',
 
 	'ace.font_size' => '14px',
-	'ace.theme' => 'monokai',
+	'ace.theme' => 'chrome',
 	'ace.word_wrap' => 1,
 	'ace.show_invisibles' => 1,
 	'ace.height' => 560,
@@ -42,4 +42,11 @@ return [
 	'error_page_header' => 'HTTP/1.0 404 Not Found',
 
 	'topmenu_show_descriptions' => 0,
+
+	'zoomx_cache_event_map' => 0,
+	'zoomx_file_snippets_path' => '{core_path}elements/zoomx/snippets/',
+	'zoomx_smarty_custom_plugin_dir' => '{core_path}elements/zoomx/plugins/',
+	'zoomx_template_dir' => '{core_path}elements/zoomx/templates/',
+];
+
 ];
