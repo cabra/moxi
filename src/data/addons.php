@@ -9,7 +9,6 @@ return [
 		'TinyMCE Rich Text Editor',
 		'translitor',
 		'VersionX',
-		'SmushIt',
 	],
 	"modstore.pro" => [
 		'Ace',
