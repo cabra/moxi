@@ -13,6 +13,8 @@ return [
 	],
 	"modstore.pro" => [
 		'Ace',
+		'AdminPanel',
+		'AjaxForm',
 		'autoRedirector',
 		'pdoTools',
 		'tagElementPlugin',
@@ -21,7 +23,6 @@ return [
 		'modHelpers',
 		'SocialNetworks',
 		'controlErrorLog',
-		'mixedImage',
 		'ZoomX',
 	]
 ];
