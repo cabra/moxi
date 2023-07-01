@@ -23,6 +23,5 @@ return [
 		'modHelpers',
 		'SocialNetworks',
 		'controlErrorLog',
-		'ZoomX',
 	]
 ];
