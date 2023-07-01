@@ -4,10 +4,10 @@ return [
 	"modx.com" => [
 		'FormIt',
 		'ClientConfig',
-		'TinyMCE Rich Text Editor',
 		'Collections',
 		'MIGX',
-		'translit',
+		'TinyMCE Rich Text Editor',
+		'translitor',
 		'VersionX',
 		'SmushIt',
 	],
@@ -15,12 +15,13 @@ return [
 		'Ace',
 		'autoRedirector',
 		'pdoTools',
-		'FetchIt',
+		'tagElementPlugin',
 		'phpThumbOn',
 		'mixedImage',
 		'modHelpers',
 		'SocialNetworks',
 		'controlErrorLog',
+		'mixedImage',
 		'ZoomX',
 	]
 ];
